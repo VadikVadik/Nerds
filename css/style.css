@@ -28,9 +28,6 @@ h4{
     display: table;
     clear: both;
 }
-.container{
-    position: relative;
-}
 .container,
 .slider{
     width: 1160px;
